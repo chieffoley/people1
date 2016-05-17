@@ -1,0 +1,5 @@
+Script started on Fri 06 May 2016 01:56:29 PM EDT
+]0;sfoley@hack-vm: ~/Shared/django_ws/people_dbsfoley@hack-vm:~/Shared/django_ws/people_db$ ls
+[0m[01;32mdb.sqlite3[0m  [01;32mmanage.py[0m  [34;42mpeople_db[0m  [34;42mpolls[0m  [01;32mtypescript[0m
+]0;sfoley@hack-vm: ~/Shared/django_ws/people_dbsfoley@hack-vm:~/Shared/django_ws/people_db$ exit
+Script done on Fri 06 May 2016 01:56:34 PM EDT
